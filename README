@@ -1,0 +1,12 @@
+Jason Lee	jjl625	N15163595
+OS202
+Lab 2 - Scheduler
+
+To Run:
+	1) <program-name> <input-filename>
+		e.g.	RR input-4.txt
+	2) <program-name> --verbose <input-filename>
+		e.g.	FCFS --verbose input-5.txt
+		
+Algos:	FCFS, RR, HPRN, SJF
+	
